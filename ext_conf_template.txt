@@ -1,0 +1,6 @@
+ 	# cat=basic/enable/1; type=boolean; label=LLL:EXT:newsextended/Resources/Private/Language/locallang_be.xml:extmng.useBeUserInformation
+useBeUserInformation = 1
+
+ 	# cat=basic/enable/1; type=boolean; label=LLL:EXT:newsextended/Resources/Private/Language/locallang_be.xml:extmng.fillEmptyPathSegment
+fillEmptyPathSegment = 1
+

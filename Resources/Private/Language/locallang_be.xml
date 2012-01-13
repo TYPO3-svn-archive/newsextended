@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>configuration</type>
+		<description>Language labels for backend of newsextended</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="extmng.useBeUserInformation">Fill BE-User information:Use the real name and email address of the current BE-User as default value for new news records</label>
+			<label index="extmng.fillEmptyPathSegment">Update path segment field:If path segment field is empty, update it with the title.</label>
+		</languageKey>
+	</data>
+</T3locallang>
